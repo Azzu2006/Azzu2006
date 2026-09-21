@@ -52,11 +52,11 @@ Featured Experience
 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Azzu1930&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Azzu2006&show_icons=true&theme=tokyonight"/>
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzu1930&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzu2006&theme=tokyonight"/>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzu1930&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzu2006&layout=compact&theme=tokyonight"/>
 </p>
 
 ⸻
@@ -64,7 +64,7 @@ GitHub Stats
 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Azzu1930&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Azzu2006&theme=onestar&no-frame=true"/>
 </p>
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 
@@ -88,7 +88,7 @@ Achievements
 
 Connect with Me
 
-* GitHub: https://github.com/Azzu1930
+* GitHub: https://github.com/Azzu2006
 * LinkedIn: https://www.linkedin.com/in/abdul-aziz-shaik-2526583a3
 * Email: shaikabdulaziz1930@gmail.com
 
